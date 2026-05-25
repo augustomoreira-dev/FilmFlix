@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FilmFlix.Infrastructure/1.0.0": {
+        "dependencies": {
+          "FilmFlix.Application": "1.0.0",
+          "FilmFlix.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FilmFlix.Infrastructure.dll": {}
+        }
+      },
+      "FilmFlix.Application/1.0.0": {
+        "dependencies": {
+          "FilmFlix.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FilmFlix.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FilmFlix.Domain/1.0.0": {
+        "runtime": {
+          "FilmFlix.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FilmFlix.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FilmFlix.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FilmFlix.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
