@@ -482,3 +482,48 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# =========================================
+
+# FILMFLIX CUSTOM RULES
+
+# =========================================
+
+# Build artifacts
+
+bin/
+obj/
+
+# Visual Studio
+
+.vs/
+
+# VS Code
+
+.vscode/
+
+# Node / Angular
+
+node_modules/
+dist/
+.angular/
+coverage/
+
+# Logs
+
+*.log
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Environment
+
+.env
+.env.local
+
+# Temporary
+
+tmp/
+temp/

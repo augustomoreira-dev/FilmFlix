@@ -97,3 +97,4 @@ C:\2026\Sistemas_IA\FILM-FLIX\backend\FilmFlix.Tests\obj\Debug\net8.0\refint\Fil
 C:\2026\Sistemas_IA\FILM-FLIX\backend\FilmFlix.Tests\obj\Debug\net8.0\FilmFlix.Tests.pdb
 C:\2026\Sistemas_IA\FILM-FLIX\backend\FilmFlix.Tests\obj\Debug\net8.0\FilmFlix.Tests.genruntimeconfig.cache
 C:\2026\Sistemas_IA\FILM-FLIX\backend\FilmFlix.Tests\obj\Debug\net8.0\ref\FilmFlix.Tests.dll
+C:\2026\Sistemas_IA\FILM-FLIX\backend\FilmFlix.Tests\obj\Debug\net8.0\FilmFlix.Tests.sourcelink.json
