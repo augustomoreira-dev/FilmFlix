@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FilmFlix.Core
-build_property.ProjectDir = c:\2026\Sistemas_IA\FILM-FLIX\backend\FilmFlix.Core\
+build_property.ProjectDir = C:\2026\Sistemas_IA\FILM-FLIX\backend\FilmFlix.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
